@@ -7,7 +7,7 @@ It can be unpredictable because of coded with Gemini.
 Try at your own risk for educational purpose or tinkering.
 
 If you find it useful, give me a beer, please. 
-https://www.paypal.com/donate/?business=H2VMSMRDY9LDW&no_recurring=0&item_name=Modbus+Master+and+Monitor+donation&currency_code=CZK
+https://buymeacoffee.com/technokneznik
 
 Heavily inspired by https://github.com/ClassicDIY/ModbusTool
 Please send him a coffee and try his utility first, it is more user friendly.
